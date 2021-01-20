@@ -1,4 +1,4 @@
-PyYAML==3.10
+PyYAML==5.4
 ago==0.0.6
 future==0.15.0
 python-dateutil==2.4.2
